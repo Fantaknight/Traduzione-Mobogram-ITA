@@ -6,6 +6,7 @@
 Files di traduzione completi in italiano del client Mobogram con e senza emoji.
 
 ## Traduzioni
+
 Partendo dal file XML della lingua all’interno dell’ APK, chiamato strings.xml è possibile tradurre migliaia di righe che corrispondono al testo visibile all’interno dell’applicazione.
 Purtroppo ci sono pochissime stringhe che non possono essere cambiate, ma tutto ciò che mi è stato possibile tradurre è stato tradotto.
 
@@ -15,13 +16,16 @@ Invece la prima è ripulita da queste emoji.
 Per entrambe mantengo il supporto da diversi mesi, quindi ad ogni aggiornamento confronto le nuove strighe all’interno dell’APK aggiornato e le integro, traducendole, all’interno delle mie traduzioni.
 
 ## OTIgram
+
 Un punto cardine della community italiana di Telegram è Open Telegram Italia o meglio conosciuta come [OTI](https://t.me/OpenTelegramItalia). E’ un supergruppo Telegram che, principalmente, cerca di dare supporto a chi si avvicina per la prima volta al client o a chiunque abbia dubbi o problemi con l’applicazione. Il loro team ha moddato Mobogram, integrando delle loro personalizzazioni e impostato come lingua predefinita del client l’italiano. Come file di traduzione utilizzano la mia versione Italiano [pulita]. In questo modo ci si potrà ritrovare una traduzione completa e in italiano senza ulteriori sforzi.
 Potrete trovare OTIgram su [Client Alternativi](https://t.me/CLIENTalternativi).
 
 ## Canali Ufficiali
+
 Se volete installare la mia traduzione manualmente per sfruttare Mobogram senza le personalizzazioni del team OTI potrete trovarle nel mio canale [Fantaknightschannel](https://t.me/fantaknightschannel), al cui interno troverete anche news sugli aggiornamenti del client, i changelog delle traduzioni, i files strings.xml completo di Mobogram, e molto altro.
 
 ## Prerequisiti e installazione di Mobogram
+
 Per poter installare i files è necessario, ovviamente installare Mobogram che è compatibile solo con Android.
 
 Una volta scaricata l’APK per l’installazione di Mobogram, cliccare sul file e far partire l’installazione. Cliccare su Apri e, una volta avviata, ci si ritroverà una schermata in Farsi (vedi sotto). 
@@ -33,7 +37,9 @@ Dopodiché è necessario inserire il proprio numero di telefono e confermare col
 
 ---
 
+
 ## Installazione della traduzione in Italiano
+
 A questo punto clicca sul tasto con la lente di ingrandimento e ricerca **“fantaknightschannel”** o apri direttamente https://t.me/fantaknightschannel se ne hai la possibilità, iscriviti al canale per ricevere una notifica non appena ci sono nuovi aggiornamenti.
 Ti ritroverai nel canale ufficiale delle traduzioni (Vedi sotto).
 

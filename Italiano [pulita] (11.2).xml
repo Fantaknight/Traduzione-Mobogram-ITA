@@ -39,7 +39,7 @@ Dopo l\'accesso alle chat segrete, seleziona i contatti nel menu successivo per 
     <string name="ActionBotDocumentPhone">Numero di telefono</string>
     <string name="ActionBotDocumentRentalAgreement">Contratto di locazione</string>
     <string name="ActionBotDocumentTemporaryRegistration">Registrazione temporanea</string>
-    <string name="ActionBotDocumentUtilityBill">Bolletta</string>
+    <string name="ActionBotDocumentUtilityBill">Fattura</string>
     <string name="ActionBotDocuments">%1$s ha ricevuto i seguenti documenti: %2$s</string>
     <string name="ActionChangedPhoto">un1 ha cambiato la foto del gruppo</string>
     <string name="ActionChangedTitle">un1 ha cambiato il nome del gruppo in un2</string>
@@ -418,7 +418,7 @@ Questo è utile per non inviare messaggi nella chat per errore.</string>
     <string name="BlurLinear">Lineare</string>
     <string name="BlurOff">No</string>
     <string name="BlurRadial">Radiale</string>
-    <string name="Bold">Bold</string>
+    <string name="Bold">Grassetto</string>
     <string name="Bot">bot</string>
     <string name="BotCantJoinGroups">Questo bot non può unirsi ai gruppi.</string>
     <string name="BotHelp">Aiuto</string>
@@ -785,7 +785,7 @@ Per superare il limite e sbloccare nuove funzioni, aggiorna a supergruppo:
     <string name="CountSent">Inviate</string>
     <string name="CreateEncryptedChatError">Si è verificato un errore.</string>
     <string name="CreateGroupError">Spiacenti, non puoi creare un gruppo con questi utenti a causa delle loro impostazioni di privacy.</string>
-    <string name="CreateLink">Crea collegamento</string>
+    <string name="CreateLink">Crea Link</string>
     <string name="CreateNewContact">Crea nuovo contatto</string>
     <string name="CreateNewTheme">Crea Nuovo Tema</string>
     <string name="CreateNewThemeHelp">Clicca sull\'icona della palette icon per vedere la lista degli elementi su ogni schermata - e modificali.</string>
@@ -1719,7 +1719,7 @@ Sfoglia il suo elenco di caratteristiche qui e scaricalo se ti piace:
     <string name="IsSendingVideo">%1$s sta inviando un video...</string>
     <string name="IsTyping">sta scrivendo…</string>
     <string name="IsTypingGroup">%1$s sta scrivendo…</string>
-    <string name="Italic">Italic</string>
+    <string name="Italic">Corsivo</string>
     <string name="Item">Strumento %s</string>
     <string name="JoinGroup">UNISCITI AL GRUPPO</string>
     <string name="JoinToGroup">Vuoi unirti alla chat %1$s?</string>
@@ -2024,7 +2024,7 @@ Avviso: rilevata una versione falsa del Mobogram nel dispositivo. Si prega di di
     <string name="MobogramKeyboard">Tastiera di Mobogram</string>
     <string name="MobogramKeyboardSettings">Impostazioni Tastiera di Mobogram</string>
     <string name="MobogramSpecificContact">Contatti specifici</string>
-    <string name="Mono">Mono</string>
+    <string name="Mono">Monospazio</string>
     <string name="Months_few">%1$d mesi</string>
     <string name="Months_many">%1$d mesi</string>
     <string name="Months_one">%1$d mese</string>
@@ -2535,7 +2535,7 @@ Puoi visitare le nostre FAQ per saperne di più.</string>
     <string name="PassportProvidedInformation">Informazioni fornite</string>
     <string name="PassportRequest">**%1$s** richiede l\'accesso ai tuoi dati personali per iscriverti ai loro servizi.</string>
     <string name="PassportRequestPasswordInfo">Inserisci la tua password Telegram per decrittografare i tuoi dati.</string>
-    <string name="PassportRequestedInformation">Requested Information</string>
+    <string name="PassportRequestedInformation">Informazioni Richieste</string>
     <string name="PassportRequiredDocuments">Documenti richiesti</string>
     <string name="PassportResidence">Residenza</string>
     <string name="PassportResidentialAddress">Indirizzo di residenza</string>
@@ -2777,7 +2777,7 @@ Il contenuto originale è visualizzato nella parte superiore, il messaggio modif
     <string name="RecoveryEmail">E-mail di recupero</string>
     <string name="Red">Rosso</string>
     <string name="RegisterText">Inserisci il tuo nome e cognome</string>
-    <string name="Regular">Regolare</string>
+    <string name="Regular">Normale</string>
     <string name="ReinstallAlert">Nota: rimuovere e reinstallare l\'applicazione in caso di problemi nella ricezione e visualizzazione dei nuovi messaggi nelle chat.
 
 

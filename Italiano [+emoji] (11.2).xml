@@ -23,23 +23,23 @@ Dopo l\'accesso alle chat segrete, seleziona i contatti nel menu successivo per 
     <string name="AccurateTo">Precisione di %1$s</string>
     <string name="ActionAddUser">un1 ha aggiunto un2</string>
     <string name="ActionAddUserSelf">un1 è tornato nel gruppo 😎</string>
-    <string name="ActionAddUserSelfMega">un1 si è unito al gruppo 😀</string>
+    <string name="ActionAddUserSelfMega">un1 si è unito al gruppo 😃</string>
     <string name="ActionAddUserSelfYou">Sei tornato nel gruppo 😎</string>
     <string name="ActionAddUserYou">un1 ti ha aggiunto</string>
     <string name="ActionBotAllowed">Hai permesso a questo bot di inviarti un messaggio quando hai effettuato l'accesso su %1$s.</string>
-    <string name="ActionBotDocumentAddress">Indirizzo</string>
-    <string name="ActionBotDocumentBankStatement">Estratto Conto Bancario</string>
-    <string name="ActionBotDocumentDriverLicence">Patente</string>
-    <string name="ActionBotDocumentEmail">Indirizzo Email</string>
-    <string name="ActionBotDocumentIdentity">Dati personali</string>
-    <string name="ActionBotDocumentIdentityCard">Carta di identità</string>
-    <string name="ActionBotDocumentInternalPassport">Passaporto interno</string>
-    <string name="ActionBotDocumentPassport">Passaporto</string>
-    <string name="ActionBotDocumentPassportRegistration">Registrazione passaporto</string>
-    <string name="ActionBotDocumentPhone">Numero di telefono</string>
-    <string name="ActionBotDocumentRentalAgreement">Contratto di locazione</string>
-    <string name="ActionBotDocumentTemporaryRegistration">Registrazione temporanea</string>
-    <string name="ActionBotDocumentUtilityBill">Bolletta</string>
+    <string name="ActionBotDocumentAddress">🏠 Indirizzo</string>
+    <string name="ActionBotDocumentBankStatement">📃 Estratto Conto Bancario</string>
+    <string name="ActionBotDocumentDriverLicence">🚗 Patente</string>
+    <string name="ActionBotDocumentEmail">📧 Indirizzo Email</string>
+    <string name="ActionBotDocumentIdentity">👤 Dati personali</string>
+    <string name="ActionBotDocumentIdentityCard">📔 Carta di identità</string>
+    <string name="ActionBotDocumentInternalPassport">📘 Passaporto interno</string>
+    <string name="ActionBotDocumentPassport">📕 Passaporto</string>
+    <string name="ActionBotDocumentPassportRegistration">📓 Registrazione passaporto</string>
+    <string name="ActionBotDocumentPhone">☎️ Numero di telefono</string>
+    <string name="ActionBotDocumentRentalAgreement">📑 Contratto di locazione</string>
+    <string name="ActionBotDocumentTemporaryRegistration">📝 Registrazione temporanea</string>
+    <string name="ActionBotDocumentUtilityBill">📄Fattura</string>
     <string name="ActionBotDocuments">%1$s ha ricevuto i seguenti documenti: %2$s</string>
     <string name="ActionChangedPhoto">un1 ha cambiato la foto del gruppo</string>
     <string name="ActionChangedTitle">un1 ha cambiato il nome del gruppo in un2</string>
@@ -117,7 +117,7 @@ Il tuo amico deve avere Telegram per aggiungerlo alla lista dei contatti.</strin
     <string name="AddMember">👤 Aggiungi membro</string>
     <string name="AddMessageToCategory">🔡 Aggiungi alla categoria</string>
     <string name="AddMutual">Aggiungi contatti al tuo canale</string>
-    <string name="AddProxy">Aggiungi Proxy</string>
+    <string name="AddProxy">➕ Aggiungi Proxy</string>
     <string name="AddRecipient">Aggiungi destinatario</string>
     <string name="AddSecretChatToDialogDmAlert">Chat segreta non supportata</string>
 	<string name="AddSentenceEnoughSpace">Non c\'è abbastanza spazio
@@ -129,7 +129,7 @@ Devi cancellare il carattere %d.</string>
     <string name="AddSubscriber">Aggiungi iscritto</string>
     <string name="AddToCategory">Aggiungi ad una categoria</string>
     <string name="AddToChannelArchive">Aggiungi all\'archivio</string>
-    <string name="AddToContacts">👥 Aggiungi ai contatti</string>
+    <string name="AddToContacts">Aggiungi ai contatti</string>
     <string name="AddToDialogDm">Aggiungi al gestore download</string>
     <string name="AddToDownloadList">📃 Aggiungi alla lista download</string>
     <string name="AddToExistingContact">👤 Aggiungi a contatto esistente</string>
@@ -351,7 +351,7 @@ Per risolvere il problema dovete disattivare tasto fluttuante o premere a lungo 
     <string name="AutoNightPreferred">Tema notte preferito</string>
     <string name="AutoNightSchedule">Programma</string>
     <string name="AutoNightScheduled">Programmato</string>
-    <string name="AutoNightTheme">Modalità Notte Automatica</string>
+    <string name="AutoNightTheme">⏲ Modalità Notte Automatica</string>
     <string name="AutoNightThemeIsNotAvailableInMoboplusTheme">Il Tema Modalità Notte non è disponibile quando viene applicato un tema Moboplus.</string>
     <string name="AutoNightTo">A</string>
     <string name="AutoNightUpdateLocation">Aggiorna posizione</string>
@@ -418,7 +418,7 @@ Questo è utile per non inviare messaggi nella chat per errore.</string>
     <string name="BlurLinear">Lineare</string>
     <string name="BlurOff">No</string>
     <string name="BlurRadial">Radiale</string>
-    <string name="Bold">Bold</string>
+    <string name="Bold">Grassetto</string>
     <string name="Bot">bot</string>
     <string name="BotCantJoinGroups">Questo bot non può unirsi ai gruppi.</string>
     <string name="BotHelp">🆘 Aiuto</string>
@@ -476,7 +476,7 @@ Se non sei stato tu, per favore inserisci il codice che abbiamo appena inviato t
     <string name="CancelLinkExpired">Link non valido o scaduto.</string>
     <string name="CancelLinkSuccess">Il processo di eliminazione per il tuo account %1$s è stato annullato. Puoi chiudere questa finestra ora.</string>
     <string name="CancelRegistration">Annulla registrazione</string>
-    <string name="CancelSending">Annulla invio</string>
+    <string name="CancelSending">↩️ Annulla invio</string>
     <string name="CantPlayVideo">L'app non è stata in grado di riprodurre questo video. Prova a riprodurlo con un player esterno?</string>
     <string name="Caption">Didascalia</string>
     <string name="CategorizingFavoriteMessages">🗂 Categorizza messaggi preferiti</string>
@@ -785,7 +785,7 @@ Per superare il limite e sbloccare nuove funzioni, aggiorna a supergruppo:
     <string name="CountSent">Inviate</string>
     <string name="CreateEncryptedChatError">Si è verificato un errore.</string>
     <string name="CreateGroupError">Spiacenti, non puoi creare un gruppo con questi utenti a causa delle loro impostazioni di privacy.</string>
-	<string name="CreateLink">Crea collegamento</string>
+	<string name="CreateLink">Crea Link</string>
     <string name="CreateNewContact">Crea nuovo contatto</string>
     <string name="CreateNewTheme">🎨 Crea Nuovo Tema</string>
     <string name="CreateNewThemeHelp">Clicca sull\'icona della palette icon per vedere la lista degli elementi su ogni schermata - e modificali.</string>
@@ -849,7 +849,7 @@ Per superare il limite e sbloccare nuove funzioni, aggiorna a supergruppo:
     <string name="Delete">❌ Elimina</string>
     <string name="DeleteAccountHelp">Se non ti connetti almeno una volta in questo periodo, il tuo account verrà eliminato insieme a tutti i gruppi, messaggi e contatti.</string>
     <string name="DeleteAccountIfAwayFor">🗓 Se lontano per</string>
-    <string name="DeleteAccountIfAwayFor2">Elimina il mio account se lontano per</string>
+    <string name="DeleteAccountIfAwayFor2">❌ Elimina il mio account se lontano per</string>
     <string name="DeleteAccountNowConfirmation">Eliminare il tuo account?</string>
     <string name="DeleteAccountTitle">❌ Elimina il mio account</string>
     <string name="DeleteAll">❌ Elimina tutto</string>
@@ -1090,7 +1090,7 @@ Sei sicuro di voler rimuovere questa emoji dai preferiti?</string>
     <string name="EnableAnimations">🏃 Abilita animazioni</string>
     <string name="EnableIt">✅ Abilitalo</string>
     <string name="EnablePermission">Abilita permessi</string>
-    <string name="EnableStreaming">Stream video e file audio</string>
+    <string name="EnableStreaming">⏯ Stream video e file audio</string>
     <string name="EnableProxyAlert">Sei sicuro di voler abilitare questo proxy?</string>
     <string name="EnableProxyAlert2">È possibile modificare il server proxy più tardi nelle Impostazioni (Dati e Archiviazione).</string>
     <string name="Enabled">Abilitate</string>
@@ -1719,7 +1719,7 @@ Sfoglia il suo elenco di caratteristiche qui e scaricalo se ti piace:
     <string name="IsSendingVideo">%1$s sta inviando un video...</string>
     <string name="IsTyping">sta scrivendo…</string>
     <string name="IsTypingGroup">%1$s sta scrivendo…</string>
-    <string name="Italic">Italic</string>
+    <string name="Italic">Corsivo</string>
     <string name="Item">Strumento %s</string>
     <string name="JoinGroup">👥 UNISCITI AL GRUPPO</string>
     <string name="JoinToGroup">Vuoi unirti alla chat %1$s?</string>
@@ -1910,7 +1910,7 @@ Questa app è adatta per utenti con più di un account Telegram.</string>
     <string name="ManageGroupMenu">🛠 Gestisci gruppo</string>
     <string name="Manager">Gestore</string>
     <string name="Map">🗺 Mappa</string>
-    <string name="MapPreviewProvider">Provider anteprima della mappa</string>
+    <string name="MapPreviewProvider">🗺 Provider anteprima della mappa</string>
     <string name="MapPreviewProviderGoogle">Google</string>
     <string name="MapPreviewProviderNobody">Nessuno</string>
     <string name="MapPreviewProviderTelegram">Telegram</string>
@@ -2024,7 +2024,7 @@ Avviso: rilevata una versione falsa del Mobogram nel dispositivo. Si prega di di
     <string name="MobogramKeyboard">⌨️ Tastiera di Mobogram</string>
     <string name="MobogramKeyboardSettings">⌨️ Impostazioni Tastiera di Mobogram</string>
     <string name="MobogramSpecificContact">Contatti specifici</string>
-    <string name="Mono">Mono</string>
+    <string name="Mono">Monospazio</string>
     <string name="Months_few">%1$d mesi</string>
     <string name="Months_many">%1$d mesi</string>
     <string name="Months_one">%1$d mese</string>
@@ -2063,7 +2063,7 @@ Avviso: rilevata una versione falsa del Mobogram nel dispositivo. Si prega di di
     <string name="NewChat">Nuova chat</string>
     <string name="NewContact">Nuovo contatto</string>
     <string name="NewConversationShortcut">Nuova conversazione</string>
-    <string name="NewFeatures">Nuova Versione</string>
+    <string name="NewFeatures">🆕 Nuova Versione</string>
     <string name="NewGroup">👥 Nuovo gruppo</string>
     <string name="NewMessageTitle">Nuovo messaggio</string>
     <string name="NewMessages_few">%1$d nuovi messaggi</string>
@@ -2284,8 +2284,8 @@ il team di Telegram</string>
     <string name="NotificationsDefaultOn">Default (Si)</string>
     <string name="NotificationsDisabled">Disabilitate</string>
     <string name="NotificationsEnableCustom">✅ Abilita Notifiche Personalizzate</string>
-    <string name="NotificationsExceptions">Eccezioni</string>
-    <string name="NotificationsImportance">Importanza</string>
+    <string name="NotificationsExceptions">❗️ Eccezioni</string>
+    <string name="NotificationsImportance">🚨 Importanza</string>
     <string name="NotificationsLed">⚫️ LED</string>
     <string name="NotificationsLedColor">🔴 Colore</string>
     <string name="NotificationsLedInfo">LED è una piccola luce lampeggiante, presente su alcuni dispositivi, che viene utilizzata per indicare l\'arrivo di nuovi messaggi.</string>
@@ -2403,8 +2403,8 @@ il team di Telegram</string>
     <string name="PassportAddTranslationPassportRegistrationInfo">Carica le scansioni della traduzione verificata della tua pagina di registrazione del passaporto.</string>
     <string name="PassportAddTranslationTemporaryRegistrationInfo">Carica le scansioni della traduzione verificata della tua registrazione temporanea.</string>
     <string name="PassportAddTranslationUploadInfo">Si prega di caricare le scansioni della traduzione verificata del documento selezionato.</string>
-    <string name="PassportAddress">Indirizzo</string>
-    <string name="PassportAddressHeader">Indirizzo</string>
+    <string name="PassportAddress">🏠 Indirizzo</string>
+    <string name="PassportAddressHeader">🏠 Indirizzo</string>
     <string name="PassportAddressInfo">Carica la prova del tuo indirizzo</string>
     <string name="PassportAddressNoUploadInfo">Si prega di fornire il vostro indirizzo</string>
     <string name="PassportAuthorize">AUTORIZZARE</string>
@@ -2428,17 +2428,17 @@ il team di Telegram</string>
     <string name="PassportDeleteSelfieAlert">Sei sicuro di voler eliminare questo selfie?</string>
     <string name="PassportDiscard">Elimina</string>
     <string name="PassportDiscardChanges">Sei sicuro di voler eliminare tutte le informazioni che hai inserito?</string>
-    <string name="PassportDocument">Dettagli del documento</string>
+    <string name="PassportDocument">🔡 Dettagli del documento</string>
     <string name="PassportDocumentNumber">Numero del documento</string>
-    <string name="PassportDocuments">Scansioni</string>
-    <string name="PassportEmail">Email</string>
+    <string name="PassportDocuments">🖨 Scansioni</string>
+    <string name="PassportEmail">📧 Email</string>
     <string name="PassportEmailCode">Codice</string>
     <string name="PassportEmailInfo">Inserisci il tuo indirizzo email</string>
     <string name="PassportEmailUploadInfo">Nota: riceverai un codice di conferma sull\'indirizzo email che fornisci.</string>
     <string name="PassportEmailVerifyInfo">Si prega di inserire il codice di conferma che abbiamo appena inviato a %1$s.</string>
     <string name="PassportExpired">Scade</string>
-    <string name="PassportFemale">Donna</string>
-    <string name="PassportFrontSide">Fronte</string>
+    <string name="PassportFemale">👩 Donna</string>
+    <string name="PassportFrontSide">🌝 Fronte</string>
     <string name="PassportFrontSideInfo">Carica una foto della facciata anteriore del documento</string>
     <string name="PassportGender">Genere</string>
     <string name="PassportIdentityDocument">Documento di identità</string>
@@ -2452,7 +2452,7 @@ il team di Telegram</string>
 Le tue informazioni, i tuoi dati personali e i tuoi documenti sono protetti da crittografia end-to-end. Nessuno, incluso Telegram, può accedervi senza la tua autorizzazione.
 
 Puoi visitare le nostre FAQ per saperne di più.</string>
-    <string name="PassportInfoTitle">Cos\'è Telegram Passport?</string>
+    <string name="PassportInfoTitle">❓ Cos\'è Telegram Passport?</string>
     <string name="PassportLanguage_AR">Arabo</string>
     <string name="PassportLanguage_AZ">Azerbaijano</string>
     <string name="PassportLanguage_BG">Bulgaro</string>
@@ -2499,9 +2499,9 @@ Puoi visitare le nostre FAQ per saperne di più.</string>
     <string name="PassportLanguage_UK">Ucraino</string>
     <string name="PassportLanguage_UZ">Uzbeko</string>
     <string name="PassportLanguage_VI">Vietnamita</string>
-    <string name="PassportMainPage">Pagina Principale</string>
+    <string name="PassportMainPage">📖 Pagina Principale</string>
     <string name="PassportMainPageInfo">Carica una foto della pagina principale del documento</string>
-    <string name="PassportMale">Uomo</string>
+    <string name="PassportMale">👨 Uomo</string>
     <string name="PassportMidname">Secondo nome</string>
     <string name="PassportMidnameCountry">Secondo nome (%1$s)</string>
     <string name="PassportMidnameLatin">Secondo nome (latino)</string>
@@ -2515,18 +2515,18 @@ Puoi visitare le nostre FAQ per saperne di più.</string>
     <string name="PassportNativeHeaderLang">Il tuo nome in %1$s</string>
     <string name="PassportNativeInfo">Il tuo nome nella lingua del paese (%1$s) che ha emesso il documento.</string>
     <string name="PassportNoDocuments">Non hai ancora documenti</string>
-    <string name="PassportNoDocumentsAdd">Aggiungi un documento</string>
+    <string name="PassportNoDocumentsAdd">➕ Aggiungi un documento</string>
     <string name="PassportNoDocumentsInfo">Puoi aggiungere il tuo numero di telefono, indirizzo email, documento di identità o indirizzo di residenza.</string>
     <string name="PassportNoExpireDate">Nessuna</string>
     <string name="PassportNoPolicy">Stai inviando i tuoi documenti direttamente a %1$s e permettendo a @%2$s di inviarti messaggi.</string>
-    <string name="PassportPersonal">Dati personali</string>
-    <string name="PassportPersonalDetails">Dati personali</string>
+    <string name="PassportPersonal">👤 Dati personali</string>
+    <string name="PassportPersonalDetails">👤 Dati personali</string>
     <string name="PassportPersonalDetailsInfo">Inserisci i tuoi dati personali</string>
     <string name="PassportPersonalUploadInfo">Il documento deve contenere la fotografia, il nome e cognome, la data di nascita, il numero del documento, il paese di rilascio e la data di scadenza.</string>
-    <string name="PassportPhone">Numero di telefono</string>
+    <string name="PassportPhone">☎️ Numero di telefono</string>
     <string name="PassportPhoneInfo">Inserisci il tuo numero di telefono</string>
     <string name="PassportPhoneUploadInfo">Nota: riceverai un codice di conferma sul numero di telefono che fornisci.</string>
-    <string name="PassportPhoneUseOther">Oppure inserisci un nuovo numero di telefono</string>
+    <string name="PassportPhoneUseOther">☎️ Oppure inserisci un nuovo numero di telefono</string>
     <string name="PassportPhoneUseSame">Usa %1$s</string>
     <string name="PassportPhoneUseSameEmailInfo">Usa la stessa email come su Telegram.</string>
     <string name="PassportPhoneUseSameInfo">Utilizza lo stesso numero di telefono di Telegram.</string>
@@ -2535,20 +2535,20 @@ Puoi visitare le nostre FAQ per saperne di più.</string>
     <string name="PassportProvidedInformation">Informazioni fornite</string>
     <string name="PassportRequest">**%1$s** richiede l\'accesso ai tuoi dati personali per iscriverti ai loro servizi.</string>
     <string name="PassportRequestPasswordInfo">Inserisci la tua password Telegram per decrittografare i tuoi dati.</string>
-    <string name="PassportRequestedInformation">Requested Information</string>
+    <string name="PassportRequestedInformation">ℹ️ Informazioni Richieste</string>
     <string name="PassportRequiredDocuments">Documenti richiesti</string>
     <string name="PassportResidence">Residenza</string>
     <string name="PassportResidentialAddress">Indirizzo di residenza</string>
-    <string name="PassportReverseSide">Retro</string>
+    <string name="PassportReverseSide">🌕 Retro</string>
     <string name="PassportReverseSideInfo">Carica una foto del retro del documento</string>
-    <string name="PassportScanPassport">Scansiona il tuo passaporto</string>
+    <string name="PassportScanPassport">📕 Scansiona il tuo passaporto</string>
     <string name="PassportScanPassportInfo">Scansione del passaporto o della carta d'identità con zona leggibile dalla macchina per compilare automaticamente i dati personali.</string>
-    <string name="PassportSelectBithdayDate">Seleziona la data di nascita</string>
-    <string name="PassportSelectExpiredDate">Seleziona la data di scadenza</string>
-    <string name="PassportSelectGender">Selezionare genere</string>
-    <string name="PassportSelectNotExpire">Non scade</string>
+    <string name="PassportSelectBithdayDate">🗓 Seleziona la data di nascita</string>
+    <string name="PassportSelectExpiredDate">🗓 Seleziona la data di scadenza</string>
+    <string name="PassportSelectGender">👥 Selezionare genere</string>
+    <string name="PassportSelectNotExpire">❌ Non scade</string>
     <string name="PassportSelfRequest">Inserisci la tua password per accedere ai tuoi dati personali.</string>
-    <string name="PassportSelfie">Selfie</string>
+    <string name="PassportSelfie">🤳 Selfie</string>
     <string name="PassportSelfieInfo">Carica un selfie di te stesso con il documento</string>
     <string name="PassportState">Stato/Regione</string>
     <string name="PassportStreet1">Via</string>
@@ -2556,10 +2556,10 @@ Puoi visitare le nostre FAQ per saperne di più.</string>
     <string name="PassportSurname">Cognome</string>
     <string name="PassportSurnameCountry">Cognome (%1$s)</string>
     <string name="PassportSurnameLatin">Cognome (latin)</string>
-    <string name="PassportTranslation">Traduzione</string>
+    <string name="PassportTranslation">🇮🇹 Traduzione</string>
     <string name="PassportTwoDocuments">%1$s o %2$s</string>
     <string name="PassportUploadAdditinalDocument">Carica scansioni aggiuntive</string>
-    <string name="PassportUploadDocument">Carica scansioni</string>
+    <string name="PassportUploadDocument">📤 Carica scansioni</string>
     <string name="PassportUploadMaxReached">Non puoi caricare più di %1$s.</string>
     <string name="PassportUploadNotImage">Puoi caricare solo file immagine.</string>
     <string name="PassportUseLatinOnly">Si prega di utilizzare solo caratteri latini.</string>
@@ -2713,14 +2713,14 @@ I pagamenti andranno direttamente allo sviluppatore di %1$s. Telegram non può f
     <string name="PreviewFeedback">Lascia un feedback su questa anteprima</string>
     <string name="PriorityInfo">Le notifiche con la priorità più alta funzioneranno persino se il tuo telefono è in modalità Non Disturbare.</string>
     <string name="Privacy">🕵 Privacy</string>
-    <string name="PrivacyAdvanced">Avanzato</string>
-    <string name="PrivacyBots">Bots e Siti Web</string>
+    <string name="PrivacyAdvanced">🛡 Avanzato</string>
+    <string name="PrivacyBots">🤖 Bots e Siti Web</string>
     <string name="PrivacyBotsInfo">Siti Web dove hai usato Telegram per accedere.</string>
     <string name="PrivacyCallsP2PHelp">Disabilitando il peer-to-peer trasmetterai tutte le chiamate attraverso i server di Telegram per evitare di rivelare il tuo indirizzo IP, ma potrebbe leggermente ridurre la qualità audio.</string>
     <string name="PrivacyCallsP2PTitle">📡 Peer-to-Peer</string>
     <string name="PrivacyClearPayment">Info pagamento</string>
     <string name="PrivacyClearShipping">Info spedizione</string>
-    <string name="PrivacyDeleteCloudDrafts">Elimina tutte le bozze cloud</string>
+    <string name="PrivacyDeleteCloudDrafts">🚮 Elimina tutte le bozze cloud</string>
     <string name="PrivacyFloodControlError">Spiacenti, troppe richieste. Impossibile cambiare le impostazioni di privacy ora, attendi.</string>
     <string name="PrivacyLastSeen">🕖 Ultimo accesso</string>
     <string name="PrivacyPayments">💰 Pagamenti</string>
@@ -2740,7 +2740,7 @@ Il contenuto originale è visualizzato nella parte superiore, il messaggio modif
     <string name="ProfilePopupNotification">❗️ Notifiche Popup</string>
     <string name="ProfilePopupNotificationInfo">I nuovi messaggi da questo contatto appariranno sullo schermo quando non starai usando telegram Telegram.</string>
     <string name="Proxy">🛰 Proxy</string>
-    <string name="ProxyConnections">Connessioni</string>
+    <string name="ProxyConnections">📡 Connessioni</string>
     <string name="ProxyDetails">Dettagli Proxy</string>
     <string name="ProxySettings">🛰 Impostazioni Proxy</string>
     <string name="Purple">Viola</string>
@@ -2777,7 +2777,7 @@ Il contenuto originale è visualizzato nella parte superiore, il messaggio modif
     <string name="RecoveryEmail">E-mail di recupero</string>
     <string name="Red">Rosso</string>
     <string name="RegisterText">Inserisci il tuo nome e cognome</string>
-    <string name="Regular">Regolare</string>
+    <string name="Regular">Normale</string>
     <string name="ReinstallAlert">Nota: rimuovere e reinstallare l\'applicazione in caso di problemi nella ricezione e visualizzazione dei nuovi messaggi nelle chat.
 
 
@@ -2970,8 +2970,8 @@ Potrebbe essere necessario riavviare l\'app per rendere effettivo il cambiamento
     <string name="SelectDay">Seleziona giorno</string>
     <string name="SelectFile">Seleziona file</string>
     <string name="SelectFontFile">Seleziona File del Font</string>
-    <string name="SelectFromContacts">Seleziona dai contatti</string>
-    <string name="SelectFromPrivateChats">Seleziona dalle chat private</string>
+    <string name="SelectFromContacts">👤 Seleziona dai contatti</string>
+    <string name="SelectFromPrivateChats">🕵️ Seleziona dalle chat private</string>
     <string name="SelectKeyboardAsDefault">✅ Imposta la tastiera di Mobogram come Predefinita</string>
     <string name="SelectKeyboardAsDefaultDetail">Seleziona \"Tastiera di Mobogram\" come tastiera predefinita, poi potrai usare la tastiera ed accedere alle sue impostazioni.</string>
     <string name="SelectKeyboardAsDefaultHelp">Seleziona \"Tastiera di Mobogram\" come tastiera predefinita nella prossima schermata.</string>
@@ -3093,7 +3093,7 @@ Puoi accedere alle Frasi Pronte dal pannello allegati della chat o dalla Tastier
     <string name="ShowAllMedia">📦 Mostra tutti i file media</string>
     <string name="ShowAsList">💬 Mostra chat in lista</string>
     <string name="ShowAsListDetail">Le chat saranno mostrate in lista invece che in griglia.</string>
-    <string name="ShowAvatarInsteadOfMenu">Mostra Avatar invece del Menu</string>
+    <string name="ShowAvatarInsteadOfMenu">👤 Mostra Avatar invece del Menu</string>
     <string name="ShowAvatarInsteadOfMenuAlways">Sempre</string>
     <string name="ShowAvatarInsteadOfMenuInMultiAccount">Multi Account Attivato</string>
     <string name="ShowAvatarInsteadOfMenuNever">Mai</string>
@@ -3269,17 +3269,17 @@ Nota: i file salvati in questa cartella verranno rimossi disinstallando Mobogram
 
 Vuoi usare questa cartella?</string>
     <string name="StorageUsage">💾 Uso della memoria</string>
-    <string name="Streaming">Streaming</string>
+    <string name="Streaming">📺 Streaming</string>
     <string name="Subscribers_few">%1$d iscritti</string>
     <string name="Subscribers_many">%1$d iscritti</string>
     <string name="Subscribers_one">%1$d iscritto</string>
     <string name="Subscribers_other">%1$d iscritti</string>
     <string name="Subscribers_two">%1$d iscritti</string>
     <string name="Subscribers_zero">%1$d iscritti</string>
-    <string name="SuggestContacts">Suggerisci Contatti Frequenti</string>
+    <string name="SuggestContacts">👨‍👩‍👧‍👦 Suggerisci Contatti Frequenti</string>
     <string name="SuggestContactsAlert">Questo eliminerà tutti i dati relativi alle persone con cui chatti di frequente e anche i bot in linea che probabilmente utilizzerai.</string>
     <string name="SuggestContactsInfo">Visualizza le persone con cui chatti frequentemente nella parte superiore della sezione di ricerca per un rapido accesso.</string>
-    <string name="SuggestStickers">Suggerisci stickers dalle emoji</string>
+    <string name="SuggestStickers">😁 Suggerisci stickers dalle emoji</string>
     <string name="SuggestStickersAll">Tutti</string>
     <string name="SuggestStickersInstalled">Aggiunti</string>
     <string name="SuggestStickersNone">Nessuno</string>
@@ -3289,9 +3289,9 @@ Vuoi usare questa cartella?</string>
     <string name="SwipeToReply">👆 Swipe per rispondere</string>
     <string name="SwipeToReplyDetail">Per rispondere a un messaggio, fai uno swipe a sinistra.</string>
     <string name="SwipeToReplyVibration">📳 Swipe per rispondere con vibrazione</string>
-    <string name="SyncContacts">Sincronizzare i contatti</string>
+    <string name="SyncContacts">🔄 Sincronizzare i contatti</string>
     <string name="SyncContactsAdded">I contatti da questo dispositivo sono stati aggiunti al tuo account.</string>
-    <string name="SyncContactsDelete">Elimina contatti sincronizzati</string>
+    <string name="SyncContactsDelete">❌ Elimina contatti sincronizzati</string>
     <string name="SyncContactsDeleteInfo">Questo rimuoverà i tuoi contatti dai server di Telegram. Se \"Sincronizza contatti" è abilitato, i contatti verranno risincronizzati.</string>
     <string name="SyncContactsInfoOff">Attiva per importare i contatti da questo dispositivo al tuo account.</string>
     <string name="SyncContactsInfoOn">I contatti da questo dispositivo verranno aggiunti al tuo account.</string>
@@ -3321,12 +3321,12 @@ Tieni premuto sulla tab e trascinala in basso o in alto per cambiarne l\'ordine.
     <string name="TelegramFAQ">🇮🇹 Fantaknight 🇮🇹</string>
     <string name="TelegramFaq">🇮🇹 Fantaknight</string>
     <string name="TelegramFaqUrl">https://t.me/fantaknightschannel</string>
-    <string name="TelegramPassport">Telegram Passport</string>
+    <string name="TelegramPassport">📘 Telegram Passport</string>
     <string name="TelegramPassportCreatePassword">CREA UNA PASSWORD</string>
     <string name="TelegramPassportCreatePasswordInfo">Si prega di creare una password per proteggere i dati personali con la crittografia end-to-end.
 
 Questa password sarà richiesta anche quando accedi a Telegram su un nuovo dispositivo.</string>
-    <string name="TelegramPassportDelete">Elimina Passport</string>
+    <string name="TelegramPassportDelete">❌ Elimina Passport</string>
     <string name="TelegramPassportDeleteAlert">Sei sicuro di voler eliminare il tuo Telegram Passport?</string>
     <string name="TelegramVersion">Mobogram per Android %1$s</string>
     <string name="TerminateAllSessions">❌ Termina le altre sessioni</string>
@@ -3933,7 +3933,7 @@ Quando Mobogram è spento, taglia completamente la connessione Internet e non in
     <string name="UninstallApp">Disinstalla %s</string>
     <string name="UnknownError">Errore sconosciuto</string>
     <string name="UnlockFingerprint">👍 Sblocca con impronta digitale</string>
-    <string name="UnmuteNotifications">🔔 Suona</string>
+    <string name="UnmuteNotifications">Suona</string>
     <string name="UnofficialApp">app non ufficiale</string>
     <string name="UnpinFromTop">Rimuovi da sopra</string>
     <string name="UnpinMessage">📥 Togli</string>
@@ -3988,7 +3988,7 @@ Scarica e installa Moboplus.</string>
     <string name="UseProxySocks5">SOCKS5</string>
     <string name="UseProxySponsor">Sponsor Proxy</string>
     <string name="UseProxySponsorInfo">Questo canale è mostrato dal tuo server proxy. Per rimuovere questo canale dall\'elenco delle chat, disabilitare il proxy in Impostazioni Telegram.</string>
-    <string name="UseProxyTelegram">Proxy MTProto</string>
+    <string name="UseProxyTelegram">🔐 Proxy MTProto</string>
     <string name="UseProxyTelegramError">Il proxy che stai utilizzando non è configurato correttamente e sarà disabilitato. Si prega di trovare un altro.</string>
     <string name="UseProxyTelegramInfo">Impostazioni Proxy MTProto.</string>
     <string name="UseProxyTelegramInfo2">Questo proxy può visualizzare un canale sponsorizzato nel tuo elenco di chat. Questo non rivela nessuno del tuo traffico Telegram.</string>
@@ -4096,7 +4096,7 @@ Scarica e installa Moboplus.</string>
     <string name="VoipOutgoingCall">Chiamata Telegram in corso</string>
     <string name="VoipPeerIncompatible">L\' app di &lt;b&gt;%1$s&lt;/b&gt; sta usando un protocollo incompatibile. Deve aggiornare la sua app prima di poterti chiamare.</string>
     <string name="VoipPeerOutdated">L\' app di &lt;b&gt;%1$s&lt;/b&gt; non supporta le chiamate. Deve aggiornare la sua app prima di poterlo chiamare.</string>
-    <string name="VoipQuickReplies">Rispondere con un messaggio di testo</string>
+    <string name="VoipQuickReplies">✉️ Rispondere con un messaggio di testo</string>
     <string name="VoipQuickRepliesExplain">Queste risposte rapide saranno disponibili quando risponderai a una chiamata in arrivo con un messaggio Telegram. Cambiali per dire tutto quello che vuoi.</string>
     <string name="VoipRateCallAlert">Valuta la qualità della chiamata Telegram</string>
     <string name="VoipRequesting">Richiesta</string>
@@ -4109,7 +4109,7 @@ Scarica e installa Moboplus.</string>
     <string name="WaitingForNetwork">Attendo la rete...</string>
     <string name="WallpaperApplied">Wallpaper Applicato!</string>
     <string name="Warmth">Calore</string>
-    <string name="WebSessionsTitle">Connesso con Telegram</string>
+    <string name="WebSessionsTitle">📲 Connesso con Telegram</string>
     <string name="WeeklyByDialog">Ultimi 7 giorni</string>
     <string name="WeeklyGeneral">Ultimi 7 giorni</string>
     <string name="Weeks_few">%1$d settimane</string>

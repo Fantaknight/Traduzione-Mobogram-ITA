@@ -163,6 +163,7 @@ You can choose one of the simple themes by taping on Menu - Themes."</string>
     <string name="AllChatsSelected">All chats are selected.</string>
     <string name="AllContactsList">All Contacts Lists</string>
     <string name="AllGroups">All Groups</string>
+    <string name="AllLinksCopied">All Links Copied</string>
     <string name="AllMedia">All media</string>
     <string name="AllMessages">All Messages</string>
     <string name="AllPhotos">All photos</string>
@@ -424,6 +425,7 @@ This's helpful to don't send message to chat by mistake."</string>
     <string name="Blue">Blue</string>
     <string name="BlueGrey">Blue Grey</string>
     <string name="BluetoothVolumeLevelPreference">Bluetooth volume level</string>
+    <string name="BlurBackgroundImage">Blur Backgroud Image</string>
     <string name="BlurLinear">Linear</string>
     <string name="BlurOff">Off</string>
     <string name="BlurRadial">Radial</string>
@@ -610,6 +612,7 @@ If you're not interested, we suggest creating a private channel instead."</strin
     <string name="Channels">Channels</string>
     <string name="Chat">Chat</string>
     <string name="ChatAdmin">admin</string>
+    <string name="ChatAvatarCornersRadius">Chat Avatar Corners Radius</string>
     <string name="ChatBackground">Chat Background</string>
     <string name="ChatCamera">Camera</string>
     <string name="ChatDocument">File</string>
@@ -632,6 +635,7 @@ If you're not interested, we suggest creating a private channel instead."</strin
 در هر گفتگو می توانید یک پیام را نشانه گذاری کنید و با انتخاب گزینه \"برو به نشانه گذار گفتگو\" از منوی بالا سمت راست، به آن پیام منتقل شوید.
 با نشانه گذاری هر پیام نشانه گذاری قبلی حذف خواهد شد.
     "</string>
+    <string name="ChatPage">Chat Page</string>
     <string name="ChatPreview">Chat Preview</string>
     <string name="ChatPreviewDetail">Show chat preview window when long press on chat in main screen.</string>
     <string name="ChatSettings">Chat Settings</string>
@@ -721,6 +725,7 @@ Once %2$s updates Telegram, photos with timers for 1 minute or less will start w
     <string name="ConnectingConnectProxy">Connect Proxy</string>
     <string name="ConnectingToProxy">Connecting to proxy</string>
     <string name="ConnectingToProxyEnable">Enable</string>
+    <string name="ContactAvatarCornersRadius">Contact Avatar Corners Radius</string>
     <string name="ContactBirthday">Birthday</string>
     <string name="ContactJob">Job</string>
     <string name="ContactJobTitle">Title</string>
@@ -729,6 +734,7 @@ Once %2$s updates Telegram, photos with timers for 1 minute or less will start w
     <string name="ContactShare">SHARE CONTACT</string>
     <string name="Contacts">Contacts</string>
     <string name="ContactsChanges">Contacts Changes</string>
+    <string name="ContactsPage">Contacts Page</string>
     <string name="ContactsPermissionAlert">"**Telegram** needs access to your contacts so that you can connect with your friends across all your devices. Your contacts will be continuously synced with Telegram's heavily encrypted cloud servers."</string>
     <string name="ContactsPermissionAlertContinue">CONTINUE</string>
     <string name="ContactsPermissionAlertNotNow">NOT NOW</string>
@@ -758,6 +764,7 @@ To go over the limit and get additional features, upgrade to a supergroup:
     <string name="ConvertGroupInfo3">"**Note:** this action can't be undone."</string>
     <string name="ConvertGroupMenu">Convert to supergroup</string>
     <string name="Copy">Copy</string>
+    <string name="CopyAll">Copy All</string>
     <string name="CopyAllText">Copy All</string>
     <string name="CopyCaption">Copy Caption</string>
     <string name="CopyLink">Copy Link</string>
@@ -792,6 +799,9 @@ To go over the limit and get additional features, upgrade to a supergroup:
     <string name="CustomCallInfo">These users will or will not be able to call you regardless of the settings above.</string>
     <string name="CustomHelp">"Important: you won't be able to see Last Seen times for people with whom you don't share your Last Seen time. Approximate last seen will be shown instead (recently, within a week, within a month)."</string>
     <string name="CustomNotifications">Custom Notifications</string>
+    <string name="CustomRoundCorners">Custom Round Corners</string>
+    <string name="CustomRoundCornersAlert">Bubble may not be shown in large messages.</string>
+    <string name="CustomSettings">Custom Settings</string>
     <string name="CustomShareInfo">These users will or will not be able to add you to groups and channels regardless of the settings above.</string>
     <string name="CustomShareSettingsHelp">These settings will override the values above.</string>
     <string name="Cyan">Cyan</string>
@@ -842,6 +852,7 @@ To go over the limit and get additional features, upgrade to a supergroup:
     <string name="DeleteAllFavoriteEmojis">Delete All Favorite Emojis?</string>
     <string name="DeleteAllFrom">Delete all from %1$s</string>
     <string name="DeleteAllGifs">Delete All GIFs?</string>
+    <string name="DeleteAllProxies">Delete All Proxies?</string>
     <string name="DeleteAllRecentStickers">Delete All Recent Stickers?</string>
     <string name="DeleteAllStatistics">Delete All Statistics</string>
     <string name="DeleteAllStatisticsAlert">"Are you sure you want to delete all statistics?
@@ -905,6 +916,8 @@ You can not see chart of presence in chat for previous days anymore."</string>
     <string name="DeleteThemeAlert">Are you sure you want to delete this theme?</string>
     <string name="DeleteThisChat">Delete this chat</string>
     <string name="DeleteThisGroup">Delete this group</string>
+    <string name="DeleteUnavailableProxies">Delete Unavailable Proxies</string>
+    <string name="DeleteUnavailableProxiesAlert">Delete Unavailable Proxies?</string>
     <string name="Deleted">Deleted</string>
     <string name="DescriptionInfo">You can provide an optional description for your channel.</string>
     <string name="DescriptionOptionalPlaceholder">Description (optional)</string>
@@ -1691,6 +1704,11 @@ Note: this setting will not apply when \"Hide Your Typing State In Chats\" in Mo
     <string name="InAppSounds">In-App Sounds</string>
     <string name="InAppVibrate">In-App Vibrate</string>
     <string name="InChatSound">In-Chat Sounds</string>
+    <string name="InMessageBottomLeftCornerRadius">In Message bottom-left Corner Radius</string>
+    <string name="InMessageBottomRightCornerRadius">In Message bottom-right Corner Radius</string>
+    <string name="InMessageCornerRadius">In Message Corner Radius</string>
+    <string name="InMessageTopLeftCornerRadius">In Message top-left Corner Radius</string>
+    <string name="InMessageTopRightCornerRadius">In Message top-right Corner Radius</string>
     <string name="IncomingCalls">Incoming calls</string>
     <string name="IncorrectLocalization">Incorrect localization file</string>
     <string name="IncorrectTheme">Incorrect theme file</string>
@@ -1919,6 +1937,7 @@ Bots are not like usual accounts. They have some limitations. For example :
 نسخه اصلی را فقط باید از کانال رسمی هانیستا دانلود و نصب کرده باشید. در غیر اینصورت امکان استفاده از این برنامه وجود نخواهد داشت.
 این برنامه مناسب کاربرانی است که بیش از یک اکانت تلگرام دارند و تمایل دارند همه اکانت های خود را با موبوگرام مدیریت کنند."</string>
     <string name="MainMoboVersionInvalidMessage">نسخه موبوگرام اول نصب شده بر روی دستگاه شما قدیمی است. لطفا ابتدا آخرین نسخه موبوگرام اول را از کانال رسمی هانیستا دانلود و نصب کنید و سپس این برنامه را اجرا کنید.</string>
+    <string name="MainPage">Main Page</string>
     <string name="MainThemeColor">Change Main Theme Color</string>
     <string name="ManageChannel">Manage Channel</string>
     <string name="ManageChannelMenu">Manage channel</string>
@@ -1944,6 +1963,7 @@ Bots are not like usual accounts. They have some limitations. For example :
     <string name="MasksRemoved">Masks removed</string>
     <string name="Media">Media</string>
     <string name="MediaCaption">Media Caption</string>
+    <string name="MediaCornersRadius">Message Media Corners Radius</string>
     <string name="MediaSettings">Media and File Settings</string>
     <string name="MediaType">Media Type</string>
     <string name="Media_few">%1$d media</string>
@@ -1981,6 +2001,7 @@ It's no possible to change ordering of Night Mode, Cloud Storage and Phone Numbe
     <string name="MenuSettings">Menu Settings</string>
     <string name="Message">Message</string>
     <string name="MessageBubbleStyle">Message Bubble Style</string>
+    <string name="MessageBubbleStyleDetail">Change and customize bubble of messages</string>
     <string name="MessageCheckStyle">Message Check Style</string>
     <string name="MessageLifetime">Self-Destruct Timer</string>
     <string name="MessageLifetimeChanged">%1$s set the self-destruct timer to %2$s</string>
@@ -2027,10 +2048,9 @@ Note: Menu Items will be different base on Message type."</string>
     <string name="MoboInvalidMessage">"متاسفانه این نسخه، نسخه اصلی موبوگرام نمی باشد.
 
 نسخه اصلی موبوگرام های اول، دوم و سوم را فقط از کانال رسمی هانیستا دریافت کنید.
-
+@hanista_channel
 
 با تشکر
-
     "</string>
     <string name="MoboIsOff">Mobogram is off.</string>
     <string name="MoboPlus">MoboPlus</string>
@@ -2364,6 +2384,11 @@ The Telegram Team"</string>
     <string name="OtherSessions">Active Sessions</string>
     <string name="OtherSettings">Other Settings</string>
     <string name="OtherWebSessions">Connected websites</string>
+    <string name="OutMessageBottomLeftCornerRadius">Out Message bottom-left Corner Radius</string>
+    <string name="OutMessageBottomRightCornerRadius">Out Message bottom-right Corner Radius</string>
+    <string name="OutMessageCornerRadius">Out Message Corner Radius</string>
+    <string name="OutMessageTopLeftCornerRadius">Out Message top-left Corner Radius</string>
+    <string name="OutMessageTopRightCornerRadius">Out Message top-right Corner Radius</string>
     <string name="OutgoingCalls">Outgoing calls</string>
     <string name="Page1Message">"The world's **fastest** messaging app.
 It is **free** and **secure**."</string>
@@ -2914,6 +2939,7 @@ The channel \"**%2$s**\" will become private."</string>
     <string name="RoamingUsage">Roaming Data Usage</string>
     <string name="Robotic">Robotic</string>
     <string name="Robots">Robots</string>
+    <string name="RoundCorners">Round Corners</string>
     <string name="SETTINGS">Settings</string>
     <string name="SampleRatePreference">Sample rate</string>
     <string name="Satellite">Satellite</string>
@@ -2993,6 +3019,7 @@ You may need to restart the app for this to take effect."</string>
     <string name="SelectMessages">Select Messages</string>
     <string name="SelectOneThemeFirst">Please select one of the themes at first</string>
     <string name="SelectTheDesiredFunction">Select the Desired Function</string>
+    <string name="Selected">Selected</string>
     <string name="SelectedChannelsLeaveAlert">Are you sure you want to leave from selected channels?</string>
     <string name="SelectedDialogAlreadyAdded">Selected chat is already in chats download list</string>
     <string name="SelectedFileIsNotBackupFile">Selected file is not a Mobogram backup file.</string>
@@ -3069,6 +3096,7 @@ You can access Ready Sentences from chat attachment panel or Mobogram Keyboard.
     <string name="Settings">Settings</string>
     <string name="Shadows">Shadows</string>
     <string name="ShamsiForAllLocales">Shamsi Date for All Languages</string>
+    <string name="ShareAll">Share All</string>
     <string name="ShareComment">Write a comment...</string>
     <string name="ShareContact">Share</string>
     <string name="ShareFile">Share</string>
@@ -3208,10 +3236,13 @@ Black: Last seen a long time ago, blocked or deleted account"</string>
     <string name="SmartNotificationsDetail">%1$s within %2$s</string>
     <string name="SmartNotificationsDisabled">Disabled</string>
     <string name="SmartNotificationsInfo">%1$d / %2$s</string>
+    <string name="SmartSelectProxy">Smart Proxy Selection</string>
+    <string name="SmartSelectProxyDetail">Selecting best proxy based on the ping time automatically.</string>
     <string name="SmsText">We will send you an SMS in %1$d:%2$02d</string>
     <string name="SoftUserLimitAlert">You will be able to add more users after you finish creating the group and convert it to a supergroup.</string>
     <string name="SortBy">Sort By</string>
     <string name="SortByLastMessage">Sort: Last Message</string>
+    <string name="SortByPingTime">Sort by Ping Time</string>
     <string name="SortByUnreadMessages">Sort: Unread Messages Count</string>
     <string name="SortContacts">Sort</string>
     <string name="SortFirstName">First name</string>
@@ -3961,6 +3992,7 @@ When Mobogram turned off, completely cut off the connection with the Internet an
     <string name="UpgradeGroup">Upgrade to Supergroup</string>
     <string name="UploadItems">Upload %1$s</string>
     <string name="UsbActive">USB transfer active</string>
+    <string name="UseChatBackground">Use Chat Background</string>
     <string name="UseFrontSpeakerOnProximitySensorTouched">Use Front Speaker on Proximity Sensor</string>
     <string name="UseFrontSpeakerOnProximitySensorTouchedDetail">When the voice is playing and you hold your phone up to your ear, front speaker will be used.</string>
     <string name="UseFullWidth">Full Screen Message</string>
@@ -4350,7 +4382,6 @@ All Rights Reserved"</string>
     <string name="google_app_id">1:741002546760:android:53b4117c8ca2f149</string>
     <string name="google_crash_reporting_api_key">AIzaSyCLzhNJ0RBtR9wbhUgsX-wvECUZzBF0wLk</string>
     <string name="google_storage_bucket">firebase-mobogram.appspot.com</string>
-    <string name="hanista_mail">info@hanista.com</string>
     <string name="hint_add_to_dictionary">← Touch again to save</string>
     <string name="hourTimeStr">%d hours</string>
     <string name="items_few">%1$d items</string>
@@ -4542,26 +4573,23 @@ All Rights Reserved"</string>
     <string name="title_activity_error">Error</string>
     <string name="to">until</string>
     <string name="updateBuild">851</string>
-    <string name="updateMoboText">"تغییرات نسخه T4.9.1-M11:
+    <string name="updateMoboText">"تغییرات نسخه T4.9.1-M11.1:
+- امکان انتخاب تصویر زمینه برای صفحه اصلی
+- امکان مات کردن تصویر زمینه صفحه اصلی
+(به تنظیمات موبو - تنظیمات ظاهری بروید)
 
-- ارتقاء به نسخه 4.9.1 تلگرام
-- Upgrade to Telegram 4.9.1
+- اتصال هوشمند و امکانات جدید در بخش پروکسی
 
-تغییرات مربوط به تلگرام:
-- پشتیبانی از چندین اکانت
-- پشتیبانی از MTProto
-- پخش ویدئو و موزیک در حین دانلود
-- حالت شب خودکار
-- ویرایش رسانه ارسال شده
-و ...
+- امکان انتخاب حباب گوشه گرد برای پیام
+- امکان تنظیم شعاع گوشه‌های حباب پیام
+- امکان تنظیم شعاع گوشه‌های رسانه داخل پیام
+- امکان تنظیم شعاع گوشه‌های آواتار مخاطب و گفتگو در صفحات اصلی، گفتگو و مخاطبین
+(به تنظیمات موبو - تنظیمات ظاهری بروید)
 
-توجه : متاسفانه به دلیل محدودیتهای بوجود آمده، امکان انتشار و فروش برنامه در مارکت وجود ندارد.
-
-لذا برای اینکه بتوانیم همچنان در کنارتان باشیم، این نسخه به صورت رایگان منتشر شده است و ممکن است در آینده تبلیغات کمی (به صورتی که آزاردهنده نباشد) در برنامه نمایش داده شود.
+- رفع مشکلات گزارش شده
 
 نسخه‌های جدید را فقط از کانال رسمی هانیستا دریافت کنید:
 @hanista_channel
-
 "</string>
     <string name="voice_mode_main">0</string>
     <string name="voice_mode_off">2</string>

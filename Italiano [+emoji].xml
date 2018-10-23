@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Traduzione per MOBOGRAM M11.2 V7.5 by Fantaknight -->
+<!-- Traduzione per MOBOGRAM M11.1 V8.1 by Fantaknight -->
 <resources>
     <string name="ALongTimeAgo">ultimo accesso molto tempo fa</string>
     <string name="AbortPassword">Annulla configurazione della verifica in due passaggi</string>
@@ -160,6 +160,7 @@ Puoi scegliere uno dei temi semplici da Menu - Temi.</string>
     <string name="AllChatsSelected">Tutte le chat sono state selezionate.</string>
 	<string name="AllContactsList">Tutti i Contatti</string>
     <string name="AllGroups">👥 Tutti i gruppi</string>
+    <string name="AllLinksCopied">Tutti i link copiati</string>
     <string name="AllMedia">Tutti i media</string>
     <string name="AllMessages">Tutti i messaggi</string>
     <string name="AllPhotos">Tutte le foto</string>
@@ -414,6 +415,7 @@ Questo è utile per non inviare messaggi nella chat per errore.</string>
     <string name="Blue">Blu</string>
     <string name="BlueGrey">Blu grigio</string>
     <string name="BluetoothVolumeLevelPreference">Livello del volume Bluetooth</string>
+    <string name="BlurBackgroundImage">🌫 Sfocatura immagine di sfondo</string>
     <string name="Blur">Sfocatura</string>
     <string name="BlurLinear">Lineare</string>
     <string name="BlurOff">No</string>
@@ -623,6 +625,7 @@ Non creare questo link se vuoi che il tuo canale rimanga privato.</string>
     <string name="Channels">📢 Canali</string>
     <string name="Chat">Chat</string>
     <string name="ChatAdmin">amministratore</string>
+    <string name="ChatAvatarCornersRadius">😎 Raggio degli Angoli dell\'Avatar della Chat</string>
     <string name="ChatBackground">🏞 Sfondo chat</string>
     <string name="ChatBarHelp">Con la barra delle chat puoi chattare senza tornare ogni volta alla lista delle chat; ti basta cliccare su una chat nella barra e poi utilizzare il pulsante indietro (o scorrere verso destra) per tornare alla chat precedente.
 
@@ -643,6 +646,7 @@ Per personalizzare la barra vai nelle impostazioni di Mobogram --&gt; Barra chat
     <string name="ChatLocation">Posizione</string>
     <string name="ChatMarkerHelp">In ogni conversazione è possibile marcare un messaggio (come un segnalibro), cliccando su \'Vai al marcatore\' dal menu in alto a destra, verrete portati a quel messaggio per continuare la lettura dei messaggi da dove eravate rimasti.
 Il marcatore precedente verrà rimosso.</string>
+    <string name="ChatPage">Pagina Chat</string>
 	<string name="ChatPreview">👁 Anteprima Chat</string>
     <string name="ChatPreviewDetail">Mostra la finestra dell\'anteprima della chat quando premi a lungo sulla schermata principale.</string>
     <string name="ChatSettings">Impostazioni chat</string>
@@ -732,6 +736,7 @@ Una volta che %2$s avrà aggiornato Telegram, le foto con il timer minore di 1 m
     <string name="ConnectingToProxyDisable">Disabilita</string>
     <string name="ConnectingToProxyDisableAlert">Sei sicuro di voler diabilitare il server proxy %1$s? Puoi riabilitarlo nelle Impostazioni più tardi (Dati e Archiviazione).</string>
     <string name="ConnectingToProxyEnable">Abilita</string>
+    <string name="ContactAvatarCornersRadius">👤 Raggio degli Angoli dell\'Avatar dei Contatti</string>
     <string name="ConnectingToProxyTapToDisable">Clicca qui per disabilitare il proxy...</string>
     <string name="ContactBirthday">Compleanno</string>
     <string name="ContactJob">Lavoro</string>
@@ -741,6 +746,7 @@ Una volta che %2$s avrà aggiornato Telegram, le foto con il timer minore di 1 m
     <string name="ContactShare">CONDIVIDI CONTATTO</string>
     <string name="Contacts">Contatti</string>
     <string name="ContactsChanges">Aggiornamenti contatti</string>
+    <string name="ContactsPage">Pagina Contatti</string>
     <string name="ContactsPermissionAlert">** Telegram ** ha bisogno di accedere ai tuoi contatti in modo da poterti connettere con i tuoi amici su tutti i tuoi dispositivi. I tuoi contatti verranno continuamente sincronizzati con i server cloud pesantemente crittografati di Telegram.</string>
     <string name="ContactsPermissionAlertContinue">➡️ CONTINUA</string>
     <string name="ContactsPermissionAlertNotNow">↩️ NON ORA</string>
@@ -770,6 +776,7 @@ Per superare il limite e sbloccare nuove funzioni, aggiorna a supergruppo:
     <string name="ConvertGroupInfo3">⚠️ **Nota:** questa azione non può essere annullata.</string>
     <string name="ConvertGroupMenu">🆙 Converti in supergruppo</string>
     <string name="Copy">📑 Copia</string>
+    <string name="CopyAll">🔗 Copia tutto</string>
     <string name="CopyAllText">🔗 Copia tutto</string>
     <string name="CopyCaption">🔗 Copia didascalia</string>
     <string name="CopyLink">🔗 Copia link</string>
@@ -805,6 +812,9 @@ Per superare il limite e sbloccare nuove funzioni, aggiorna a supergruppo:
     <string name="CustomCallInfo">Questi utenti potranno o non potranno chiamarti indipendentemente dalle impostazioni qui sopra.</string>
     <string name="CustomHelp">Importante: non sarai in grado di vedere l\'ultimo accesso delle persone con le quali non condividi l\'ultimo accesso. Verrà mostrato un orario approssimativo (di recente, entro una settimana, entro un mese).</string>
     <string name="CustomNotifications">📮 Notifiche Personalizzate</string>
+    <string name="CustomRoundCorners">Angoli arrotondati personalizzati</string>
+    <string name="CustomRoundCornersAlert">La bolla potrebbe non essere visualizzata nei messaggi di grandi dimensioni.</string>
+    <string name="CustomSettings">Impostazioni personalizzate</string>
     <string name="CustomShareInfo">Questi utenti saranno o non saranno in grado di aggiungerti a gruppi e canali indipendentemente dalle impostazioni precedenti.</string>
     <string name="CustomShareSettingsHelp">Queste impostazioni annulleranno i valori precedenti.</string>
     <string name="Cyan">Ciano</string>
@@ -857,6 +867,7 @@ Per superare il limite e sbloccare nuove funzioni, aggiorna a supergruppo:
     <string name="DeleteAllFavoriteEmojis">Eliminare tutte le emoji preferite?</string>
     <string name="DeleteAllFrom">❌ Elimina tutto da %1$s</string>
     <string name="DeleteAllGifs">Eliminare tutte le GIF?</string>
+    <string name="DeleteAllProxies">Eliminare tutti i Proxy?</string>
     <string name="DeleteAllRecentStickers">Eliminare tutti gli stickers recenti?</string>
     <string name="DeleteAllStatistics">Elimina tutte le statistiche</string>
     <string name="DeleteAllStatisticsAlert">Sei sicuro di voler cancellare tutte le statistiche?
@@ -919,6 +930,8 @@ Non potrai più vedere il grafico di presenza nella chat per i giorni precedenti
     <string name="DeleteThemeAlert">Sicuro di voler eliminare questo tema?</string>
     <string name="DeleteThisChat">❌ Elimina questa chat</string>
     <string name="DeleteThisGroup">❌ Elimina questo gruppo</string>
+    <string name="DeleteUnavailableProxies">❌ Elimina proxy non disponibili</string>
+    <string name="DeleteUnavailableProxiesAlert">Eliminare i proxy non disponibili?</string>
     <string name="Deleted">Eliminato</string>
     <string name="DescriptionInfo">Puoi inserire una descrizione opzionale per il tuo canale.</string>
     <string name="DescriptionInfoMega">Puoi inserire una descrizione opzionale per il tuo gruppo.</string>
@@ -1658,6 +1671,11 @@ Nota: questa impostazione viene sovrascritta, quando la modalità fantasma è at
     <string name="InAppSounds">🔊 Suoni in-app</string>
     <string name="InAppVibrate">〰 Vibrazione in-app</string>
     <string name="InChatSound">🔈 Suoni in-chat</string>
+    <string name="InMessageBottomLeftCornerRadius">Raggio dell\'angolo in basso a sinistra nel messaggio</string>
+    <string name="InMessageBottomRightCornerRadius">Raggio dell\'angolo in basso a destra nel messaggio</string>
+    <string name="InMessageCornerRadius">Raggio dell\'angolo nel messaggio</string>
+    <string name="InMessageTopLeftCornerRadius">Raggio dell\'angolo in alto a sinistra nel messaggio</string>
+    <string name="InMessageTopRightCornerRadius">Raggio dell\'angolo in alto a destra nel messaggio</string>
     <string name="IncomingCalls">Chiamate in entrata</string>
     <string name="IncorrectLocalization">⚠️ File di traduzione non valido</string>
     <string name="IncorrectTheme">⚠️ File tema non valido</string>
@@ -1822,7 +1840,7 @@ Tutti i media rimarranno nel cloud di Telegram e potranno essere riscaricati ogn
     <string name="LedColor">🔴 Colore LED</string>
     <string name="LedDisabled">❌ Disabilitato</string>
     <string name="Left">Sinistra</string>
-    <string name="LeftToRight">Da sinistra a destra</string>
+    <string name="LeftToRight">➡️ Da sinistra a destra</string>
     <string name="LightGreen">Verde chiaro</string>
     <string name="LinkAvailable">%1$s è disponibile.</string>
     <string name="LinkChecking">Controllo il nome...</string>
@@ -1903,6 +1921,7 @@ Questa è la versione %s di Mobogram e può essere utilizzata solo su dispositiv
 La versione originale dovrebbe essere scaricata e installata solo dal canale ufficiale Hanista. Altrimenti, non sarà possibile utilizzare questo programma.
 Questa app è adatta per utenti con più di un account Telegram.</string>
     <string name="MainMoboVersionInvalidMessage">La tua versione di Mobogram è vecchia come mia nonna chiedi in @OpenTelegramItalia la versione più aggiornata.</string>
+	<string name="MainPage">Pagina principale</string>
     <string name="MainThemeColor">🔵 Colore principale del Tema</string>
     <string name="ManageChannel">🛠 Gestisci canale</string>
     <string name="ManageChannelMenu">🛠 Gestisci canale</string>
@@ -1928,6 +1947,7 @@ Questa app è adatta per utenti con più di un account Telegram.</string>
     <string name="MasksRemoved">Maschere rimosse</string>
     <string name="Media">📦 Media</string>
     <string name="MediaCaption">Didascalia del file</string>
+    <string name="MediaCornersRadius">📦 Raggio degli Angoli dei Media dei messaggi</string>
     <string name="MediaSettings">⚙️ Impostazioni Media</string>
     <string name="MediaType">Tipo di Media</string>
     <string name="Media_few">%1$d media</string>
@@ -1967,6 +1987,7 @@ Tieni premuto sul menu strumenti e fai uno swipe in basso o in alto per cambiarn
     <string name="MenuSettings">📜 Menu laterale</string>
     <string name="Message">Messaggio</string>
 	<string name="MessageBubbleStyle">💬 Stile Bolle Messaggio</string>
+    <string name="MessageBubbleStyleDetail">Cambia e personalizza la bolla dei messaggi</string>
     <string name="MessageCheckStyle">✅ Stile Spunta Messaggio</string>
     <string name="MessageLifetime">💣 Timer di autodistruzione</string>
     <string name="MessageLifetimeChanged">%1$s ha impostato il timer di autodistruzione a %2$s</string>
@@ -2340,8 +2361,8 @@ il team di Telegram</string>
     <string name="OpenMoboplus">Apri Moboplus</string>
     <string name="OpenNotificationsWhenTouchNotification">📬 Aprire le notifiche quando si tocca la notifica</string>
     <string name="OpenNotificationsWhenTouchNotificationDetail">Apri la schermata Notifiche quando tocchi la notifica dalla barra di notifica</string>
-    <string name="OpenProfile">Apri profilo</string>
-    <string name="OpenProfilePhotos">Apri foto profilo</string>
+    <string name="OpenProfile">ℹ️ Apri profilo</string>
+    <string name="OpenProfilePhotos">👤 Apri foto profilo</string>
     <string name="OpenUrlAlert">Aprire url %1$s?</string>
     <string name="Orange">Arancione</string>
     <string name="OriginalVideo">Video originale</string>
@@ -2350,6 +2371,11 @@ il team di Telegram</string>
     <string name="OtherSessions">♻️ Altre sessioni</string>
     <string name="OtherSettings">🔧 Altre impostazioni</string>
     <string name="OtherWebSessions">Siti Web collegati</string>
+    <string name="OutMessageBottomLeftCornerRadius">Raggio dell\'angolo in basso a sinistra fuori dal messaggio</string>
+    <string name="OutMessageBottomRightCornerRadius">Raggio dell\'angolo in basso a destra fuori dal messaggio</string>
+    <string name="OutMessageCornerRadius">Raggio dell\'angolo fuori dal messaggio</string>
+    <string name="OutMessageTopLeftCornerRadius">Raggio dell\'angolo in alto a sinistra fuori dal messaggio</string>
+    <string name="OutMessageTopRightCornerRadius">Raggio dell\'angolo in alto a destra fuori dal messaggio</string>
     <string name="OutgoingCalls">Chiamate in uscita</string>
     <string name="Page1Message">L\'app di messaggi &lt;b&gt;più veloce&lt;/b&gt; al mondo.&lt;br/&gt;È &lt;b&gt;gratuita&lt;/b&gt; e &lt;b&gt;sicura&lt;/b&gt;.</string>
     <string name="Page1Title">Telegram</string>
@@ -2895,10 +2921,11 @@ Il gruppo \"&lt;b&gt;%2$s&lt;/b&gt;\" diventerà privato.</string>
 
 Il canale \"&lt;b&gt;%2$s&lt;/b&gt;\" diventerà privato.</string>
     <string name="Right">Destra</string>
-    <string name="RightToLeft">Da destra a sinistra</string>
+    <string name="RightToLeft">⬅️ Da destra a sinistra</string>
     <string name="RoamingUsage">🌐 Uso Dati Roaming</string>
     <string name="Robotic">🤖 Robotica</string>
     <string name="Robots">🤖 Bots</string>
+    <string name="RoundCorners">Angoli arrotondati</string>
     <string name="SETTINGS">⚙️ Impostazioni</string>
     <string name="SampleRatePreference">Frequenza di campionamento</string>
     <string name="Satellite">🛰 Satellite</string>
@@ -2978,6 +3005,7 @@ Potrebbe essere necessario riavviare l\'app per rendere effettivo il cambiamento
     <string name="SelectMessages">Seleziona messaggi</string>
     <string name="SelectOneThemeFirst">Seleziona prima uno dei temi</string>
     <string name="SelectTheDesiredFunction">Seleziona la funzione desiderata</string>
+    <string name="Selected">Selezionato</string>
     <string name="SelectedChannelsLeaveAlert">Sei sicuro di voler lasciare i canali selezionati?</string>
     <string name="SelectedDialogAlreadyAdded">La chat selezionata è già nella lista download delle chat.</string>
     <string name="SelectedFileIsNotBackupFile">Il file selezionato non è un file di backup di Mobogram.</string>
@@ -3056,6 +3084,7 @@ Puoi accedere alle Frasi Pronte dal pannello allegati della chat o dalla Tastier
     <string name="SettingsDefault">Impostazioni predefinite</string>
     <string name="Shadows">Ombre</string>
     <string name="ShamsiForAllLocales">🗓 Data persiana</string>
+    <string name="ShareAll">Condividi tutto</string>
     <string name="ShareComment">Aggiungi una didascalia...</string>
     <string name="ShareContact">🔁 Condividi</string>
     <string name="ShareFile">🔁 Condividi</string>
@@ -3195,6 +3224,8 @@ Nero: ultimo accesso molto tempo fa (oppure ti ha bloccato)</string>
     <string name="SmartNotificationsDetail">%1$s entro %2$s</string>
     <string name="SmartNotificationsDisabled">❌ Disabilitate</string>
     <string name="SmartNotificationsInfo">Suona al massimo %1$s in %2$s</string>
+    <string name="SmartSelectProxy">Selezione proxy intelligente</string>
+    <string name="SmartSelectProxyDetail">Selezione automatica del miglior proxy in base al tempo di ping.</string>
     <string name="SmartNotificationsMinutes">minuti</string>
     <string name="SmartNotificationsSoundAtMost">Suona al massimo</string>
     <string name="SmartNotificationsTimes">volte</string>
@@ -3203,6 +3234,7 @@ Nero: ultimo accesso molto tempo fa (oppure ti ha bloccato)</string>
     <string name="SoftUserLimitAlert">Sarai in grado di aggiungere più utenti dopo aver creato il gruppo e averlo convertito in supergruppo.</string>
     <string name="SortBy">Ordina per</string>
     <string name="SortByLastMessage">🆕 Ordina per ultimo messaggio</string>
+    <string name="SortByPingTime">🕐 Ordina per tempo di ping</string>
     <string name="SortByUnreadMessages">📖 Ordina per messaggi \'da leggere\'</string>
     <string name="SortContacts">Ordina</string>
     <string name="SortFirstName">✒️ Nome</string>
@@ -3962,6 +3994,7 @@ Quando Mobogram è spento, taglia completamente la connessione Internet e non in
     <string name="UpgradeGroup">Aggiorna a supergruppo</string>
     <string name="UploadItems">Carica %1$s</string>
     <string name="UsbActive">Trasferimento USB attivo</string>
+    <string name="UseChatBackground">Usa sfondo chat</string>
     <string name="UseFrontSpeakerOnProximitySensorTouched">🔈 Usa lo speaker frontale con il sensore di prossimità</string>
     <string name="UseFrontSpeakerOnProximitySensorTouchedDetail">Mentre ascolti un messaggio vocale e porti il telefono all\'orecchio, l\'audio passerà allo speaker frontale.</string>
 	<string name="UseFullWidth">↔️ Messaggio a Schermo Intero</string>
